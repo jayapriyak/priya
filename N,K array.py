@@ -1,8 +1,8 @@
 N,K=list(map(int,input().split()))
-A=list(map(int,input().split()))
-i=0
+f=list(map(int,input().split()))
+a=0
 summ=0
-while i<K:
-    summ=summ+A[i]
-    i=i+1
+while a<K:
+    summ=summ+f[a]
+    a=a+1
 print(summ)	
