@@ -1,5 +1,5 @@
-M=int(input())
-d=1
-while d<=M:
+v=int(input())
+u=1
+while u<=v:
 	print("Hello")
-	d=d+1
+	u=u+1
