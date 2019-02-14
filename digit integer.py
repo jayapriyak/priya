@@ -1,6 +1,6 @@
-M=int(input())
+g=int(input())
 count=0
-while M!=0:
-	M=M//10
+while g!=0:
+	g=g//10
 	count+=1
 print(count)	
