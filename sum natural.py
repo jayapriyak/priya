@@ -1,5 +1,5 @@
-M=int(input())
+u=int(input())
 summ=0
-for i in range(1,M+1,1):
-	summ=summ+i
+for r in range(1,u+1,1):
+	summ=summ+r
 print(summ)
