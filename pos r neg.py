@@ -1,8 +1,8 @@
-# your code goes here
-a=int(input())
-if a>0:
+
+r=int(input())
+if r>0:
 	print("Positive")
-elif a<0:
+elif r<0:
 	print("Negative")
 else:
 	print("Zero")
